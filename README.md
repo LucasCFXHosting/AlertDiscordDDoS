@@ -16,3 +16,7 @@ A simple script in PY alerting when your server detecting an attack DDoS / DoS
 - For look this screen type "screen -r"
 
 ## ENJOY ! 
+
+
+
+If you need support go here : https://discord.gg/uCx8ndmhkh
